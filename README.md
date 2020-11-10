@@ -1,11 +1,15 @@
 # Elephant Chateau Token (ECT)
 
 Elephant Chateau Token (ECT)
+
 https://elephantchateau.com/shop/ect-whitepaper/
+
 
 Elephant Chateau Token (ECT) is an ERC-20 rewards token that enables instant luxury rewards (art, goods, resorts, travel, etc…) distribution and redemption. The ECT framework includes reward systems that exists on the Ethereum and other blockchains as a series of smart-contracts.
 
 Total circulating supply (1,000,000 ECT) will be allocated to 3 areas. The first area — system development (10%), the second —blockchain snapshot claims (20% ), and third — general token users (70%).
+
+
 
 ## ECT Details
 
@@ -26,6 +30,8 @@ Ethereum
 
 ### Bitcoin Talk
 https://bitcointalk.org/index.php?topic=5280680
+
+
 
 ## ECT/ETH Exchange
 
