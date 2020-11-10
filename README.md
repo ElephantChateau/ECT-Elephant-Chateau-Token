@@ -1,4 +1,4 @@
-# Elephant-Chateau-Token
+# Elephant Chateau Token (ECT)
 
 Elephant Chateau Token (ECT)
 https://elephantchateau.com/shop/ect-whitepaper/
@@ -7,33 +7,33 @@ Elephant Chateau Token (ECT) is an ERC-20 rewards token that enables instant lux
 
 Total circulating supply (1,000,000 ECT) will be allocated to 3 areas. The first area — system development (10%), the second —blockchain snapshot claims (20% ), and third — general token users (70%).
 
-# ECT Details
+## ECT Details
 
-## Token Symbol
+### Token Symbol
 ECT
 
-# Contract Address
+### Contract Address
 0xb747b058f122bd2bb72fa1a0f94a8a3d7d450a00
 
-# Current Circulating Supply
+### Current Circulating Supply
 1,000,000 ECT
 
-# Fully Diluted Market Cap
+### Fully Diluted Market Cap
 $3,275,509.43
 
-# Blockchain
+### Blockchain
 Ethereum
 
-# Bitcoin Talk
+### Bitcoin Talk
 https://bitcointalk.org/index.php?topic=5280680
 
-# ECT/ETH Exchange
+## ECT/ETH Exchange
 
-# Approximate Exchange Rate
+### Approximate Exchange Rate
 200 ECT = 1 ETH
 *ECT is not security. Users should have no expectation of profit from using, buying, or transmitting this token.
 
-# Popular Token Exchanges
+### Popular Token Exchanges
 Elephant Chateau – https://elephantchateau.com/shop/popular-products/digital-products/ect-elephant-chateau-token/
 
 Bamboo Relay – https://bamboorelay.com/trade/ECT-WETH
