@@ -13,33 +13,33 @@ Total circulating supply (1,000,000 ECT) will be allocated to 3 areas. The first
 
 ## ECT Details
 
-### Token Symbol
+#### Token Symbol
 ECT
 
-### Contract Address
+#### Contract Address
 0xb747b058f122bd2bb72fa1a0f94a8a3d7d450a00
 
-### Current Circulating Supply
+#### Current Circulating Supply
 1,000,000 ECT
 
-### Fully Diluted Market Cap
+#### Fully Diluted Market Cap
 $3,275,509.43
 
-### Blockchain
+#### Blockchain
 Ethereum
 
-### Bitcoin Talk
+#### Bitcoin Talk
 https://bitcointalk.org/index.php?topic=5280680
 
 
 
 ## ECT/ETH Exchange
 
-### Approximate Exchange Rate
+#### Approximate Exchange Rate
 200 ECT = 1 ETH
 *ECT is not security. Users should have no expectation of profit from using, buying, or transmitting this token.
 
-### Popular Token Exchanges
+#### Popular Token Exchanges
 Elephant Chateau – https://elephantchateau.com/shop/popular-products/digital-products/ect-elephant-chateau-token/
 
 Bamboo Relay – https://bamboorelay.com/trade/ECT-WETH
