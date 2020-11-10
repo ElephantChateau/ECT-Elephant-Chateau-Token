@@ -9,7 +9,7 @@ Total circulating supply (1,000,000 ECT) will be allocated to 3 areas. The first
 
 # ECT Details
 
-# Token Symbol
+## Token Symbol
 ECT
 
 # Contract Address
