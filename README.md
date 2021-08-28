@@ -42,6 +42,4 @@ https://bitcointalk.org/index.php?topic=5280680
 #### Popular Token Exchanges
 Elephant Chateau – https://elephantchateau.com/shop/popular-products/digital-products/ect-elephant-chateau-token/
 
-Bamboo Relay – https://bamboorelay.com/trade/ECT-WETH
-
 Uniswap – https://app.uniswap.org/#/swap?outputCurrency=0xb747b058f122bd2bb72fa1a0f94a8a3d7d450a00
